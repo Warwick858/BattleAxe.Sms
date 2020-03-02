@@ -1,0 +1,28 @@
+2020-03-01 20:16:02.662 -07:00 [INF] Starting web host...
+2020-03-01 20:16:04.463 -07:00 [INF] BattleAxe.Sms has started successfully.
+2020-03-01 20:20:08.732 -07:00 [INF] Starting web host...
+2020-03-01 20:20:09.393 -07:00 [INF] BattleAxe.Sms has started successfully.
+2020-03-01 20:22:08.894 -07:00 [INF] Starting web host...
+2020-03-01 20:22:09.601 -07:00 [INF] BattleAxe.Sms has started successfully.
+2020-03-01 20:25:47.853 -07:00 [INF] Starting web host...
+2020-03-01 20:25:48.489 -07:00 [INF] BattleAxe.Sms has started successfully.
+2020-03-01 20:48:57.612 -07:00 [INF] Starting web host...
+2020-03-01 20:48:58.234 -07:00 [INF] BattleAxe.Sms has started successfully.
+2020-03-01 20:49:02.152 -07:00 [INF] Attempting to perform GET.
+2020-03-01 20:53:37.193 -07:00 [INF] Starting web host...
+2020-03-01 20:53:37.842 -07:00 [INF] BattleAxe.Sms has started successfully.
+2020-03-01 20:53:45.935 -07:00 [INF] BattleAxe.Sms status check.
+2020-03-01 20:54:09.188 -07:00 [INF] Received sms message: {"Body":"string","To":"\u002B18583495848"} and are attempting send.
+2020-03-01 20:54:09.188 -07:00 [INF] Received sms message: {"Body":"string","To":"\u002B18583495848"} and are attempting to send using: TWILIO provider(s).
+2020-03-01 20:54:09.234 -07:00 [INF] The given recipient phone number +18583495848 is not whitelisted. SMS message was not sent.
+2020-03-01 20:54:25.481 -07:00 [INF] Received sms message: {"Body":"string","To":"\u002B18583495848"} and are attempting send.
+2020-03-01 20:54:28.638 -07:00 [INF] Received sms message: {"Body":"string","To":"\u002B18583495848"} and are attempting to send using: TWILIO provider(s).
+2020-03-01 20:54:45.159 -07:00 [INF] The given recipient phone number +18583495848 is not whitelisted. SMS message was not sent.
+2020-03-01 20:56:52.646 -07:00 [INF] Starting web host...
+2020-03-01 20:56:53.273 -07:00 [INF] BattleAxe.Sms has started successfully.
+2020-03-01 20:57:07.770 -07:00 [INF] Received sms message: {"Body":"string","To":"\u002B18583495848"} and are attempting send.
+2020-03-01 20:57:07.770 -07:00 [INF] Received sms message: {"Body":"string","To":"\u002B18583495848"} and are attempting to send using: TWILIO provider(s).
+2020-03-01 20:57:13.428 -07:00 [INF] Sms message processed via Twilio. Request: {"Body":"string","To":"\u002B18583495848"}. Response: {"AccountSid":"AC641985fdaffb9a3c91bdf85718b5e173","ApiVersion":"2010-04-01","Body":"Sent from your Twilio trial account - string","DateCreated":"2020-03-01T20:57:12-07:00","DateUpdated":"2020-03-01T20:57:12-07:00","DateSent":null,"Direction":{},"ErrorCode":null,"ErrorMessage":null,"From":{},"MessagingServiceSid":null,"NumMedia":"0","NumSegments":"1","Price":null,"PriceUnit":"USD","Sid":"SMea2f0825ce534f20a259df45deef05e3","Status":{},"SubresourceUris":{"media":"/2010-04-01/Accounts/AC641985fdaffb9a3c91bdf85718b5e173/Messages/SMea2f0825ce534f20a259df45deef05e3/Media.json"},"To":"\u002B18583495848","Uri":"/2010-04-01/Accounts/AC641985fdaffb9a3c91bdf85718b5e173/Messages/SMea2f0825ce534f20a259df45deef05e3.json"}
+2020-03-01 21:00:51.313 -07:00 [INF] Starting web host...
+2020-03-01 21:00:52.076 -07:00 [INF] BattleAxe.Sms has started successfully.
+2020-03-01 21:00:57.452 -07:00 [INF] Attempting to perform GET.
