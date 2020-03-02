@@ -70,7 +70,6 @@ namespace BattleAxe.Sms.Library.Providers
 			return response;
 		}
 
-		[ExcludeFromCodeCoverage]
 		private string Failover(SmsRequest smsRequest)
 		{
 			var response = _providerRegistration[_appSettings.PrimaryProvider].Invoke(smsRequest);

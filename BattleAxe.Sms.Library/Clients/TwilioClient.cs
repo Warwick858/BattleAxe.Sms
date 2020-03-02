@@ -89,7 +89,6 @@ namespace BattleAxe.Sms.Library.Clients
 			return JsonSerializer.Serialize(response);
 		}
 
-		[ExcludeFromCodeCoverage]
 		private bool IsWhitelisted(string to)
 		{
 			if (_appSettings?.Environment?.ToUpper() == "PROD")
